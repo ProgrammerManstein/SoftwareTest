@@ -1,0 +1,8 @@
+me\zhulin\shopapi\service\impl\CartServiceImplTest.class
+me\zhulin\shopapi\service\impl\UserServiceImplTest.class
+me\zhulin\shopapi\api\CartControllerTest.class
+me\zhulin\shopapi\service\impl\CategoryServiceImplTest.class
+me\zhulin\shopapi\ShopApiApplicationTests.class
+me\zhulin\shopapi\service\impl\ProductServiceImplTest.class
+me\zhulin\shopapi\service\impl\OrderServiceImplTest.class
+me\zhulin\shopapi\service\impl\ProductInOrderServiceImplTest.class
